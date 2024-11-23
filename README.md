@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswanth</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer</h3>
 
-###
+
 
 
 <div align="center">
@@ -10,6 +10,7 @@
 
 ###
 
+<h3 align="center">Languages and Tools</h3>
 
 ###
 
@@ -45,6 +46,8 @@
 
 ###
 
+<h3 align="center">Connect with Me 🔍</h3>
+
 <div align="center">
   <a href="mailto:aswanth1392@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -62,3 +65,8 @@
 
 ###
 
+<div align="center">
+<a href="#">
+  <img src="https://komarev.com/ghpvc/?username=aswanth7356&color=brightgreen&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits" />
+</a>
+</div>
