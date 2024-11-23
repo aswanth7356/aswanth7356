@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswanth</h1>
 <h3 align="center">A passionate FullStack developer</h3>
-###
 
 
 <div align="left">
@@ -10,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1400/0*goaFvkjpQM-0p0h6."  />
 
 ###
 
